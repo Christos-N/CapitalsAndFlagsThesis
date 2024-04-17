@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="7dp">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:theme="@style/MyToolbarStyle"/>
+
+    <Button
+        android:id="@+id/guessCapitalButton"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:text="@string/guess_capital"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_background"
+        />
+
+    <Button
+        android:id="@+id/guessCountryByCapitalButton"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:text="@string/guess_country_by_capital"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_background" />
+
+    <Button
+        android:id="@+id/guessCountryByFlagButton"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:text="@string/guess_country_by_flag"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_background" />
+
+    <Button
+        android:id="@+id/guessFlagByCountryButton"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:text="@string/guess_flag"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_background"
+        />
+
+
+</LinearLayout>

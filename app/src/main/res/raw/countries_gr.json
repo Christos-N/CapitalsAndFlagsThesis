@@ -1,0 +1,1466 @@
+[
+  {
+    "country": "Αφγανιστάν",
+    "capital": "Καμπούλ",
+    "continent": "Ασία",
+    "filename": "afghanistan"
+  },
+  {
+    "country": "Αλβανία",
+    "capital": "Τίρανα",
+    "continent": "Ευρώπη",
+    "filename": "albania"
+  },
+  {
+    "country": "Αλγερία",
+    "capital": "Αλγέρι",
+    "continent": "Αφρική",
+    "filename": "algeria"
+  },
+  {
+    "country": "Αμερικανική Σαμόα",
+    "capital": "Πάγκο Πάγκο",
+    "continent": "Ωκεανία",
+    "filename": "american_samoa"
+  },
+  {
+    "country": "Ανδόρρα",
+    "capital": "Ανδόρρα λα Βέλια",
+    "continent": "Ευρώπη",
+    "filename": "andorra"
+  },
+  {
+    "country": "Αγκόλα",
+    "capital": "Λουάντα",
+    "continent": "Αφρική",
+    "filename": "angola"
+  },
+  {
+    "country": "Ανγκουίλα",
+    "capital": "Δε Βάλεϊ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "anguilla"
+  },
+  {
+    "country": "Αντίγκουα και Μπαρμπούντα",
+    "capital": "Σαιντ Τζονς",
+    "continent": "Βόρεια Αμερική",
+    "filename": "antigua_and_barbuda"
+  },
+  {
+    "country": "Σάμπα",
+    "capital": "Δε Μπότομ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "saba"
+  },
+  {
+    "country": "Νήσοι Ώλαντ",
+    "capital": "Μαρίεχαμν",
+    "continent": "Ευρώπη",
+    "filename": "aland_islands"
+  },
+  {
+    "country": "Νησί του Πάσχα",
+    "capital": "Χάνγκα Ρόα",
+    "continent": "Ωκεανία",
+    "filename": "easter_island"
+  },
+  {
+    "country": "Αργεντινή",
+    "capital": "Μπουένος Άιρες",
+    "continent": "Νότια Αμερική",
+    "filename": "argentina"
+  },
+  {
+    "country": "Αρμενία",
+    "capital": "Γερεβάν",
+    "continent": "Ασία",
+    "filename": "armenia"
+  },
+  {
+    "country": "Αρούμπα",
+    "capital": "Οράνιεσταντ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "aruba"
+  },
+  {
+    "country": "Αυστραλία",
+    "capital": "Κανμπέρα",
+    "continent": "Ωκεανία",
+    "filename": "australia"
+  },
+  {
+    "country": "Αυστρία",
+    "capital": "Βιέννη",
+    "continent": "Ευρώπη",
+    "filename": "austria"
+  },
+  {
+    "country": "Αζερμπαϊτζάν",
+    "capital": "Μπακού",
+    "continent": "Ασία",
+    "filename": "azerbaijan"
+  },
+  {
+    "country": "Μπαχάμες",
+    "capital": "Νασάου",
+    "continent": "Βόρεια Αμερική",
+    "filename": "bahamas"
+  },
+  {
+    "country": "Μπαχρέιν",
+    "capital": "Μανάμα",
+    "continent": "Ασία",
+    "filename": "bahrain"
+  },
+  {
+    "country": "Τζέρσεϊ",
+    "capital": "Σεντ Χέλιερ",
+    "continent": "Ευρώπη",
+    "filename": "jersey"
+  },
+  {
+    "country": "Ουαλία",
+    "capital": "Κάρντιφ",
+    "continent": "Ευρώπη",
+    "filename": "wales"
+  },
+  {
+    "country": "Γουινέα",
+    "capital": "Κόνακρι",
+    "continent": "Αφρική",
+    "filename": "guinea"
+  },
+  {
+    "country": "Γουινέα-Μπισσάου",
+    "capital": "Μπισσάου",
+    "continent": "Αφρική",
+    "filename": "guinea_bissau"
+  },
+  {
+    "country": "Ακτή Ελεφαντοστού",
+    "capital": "Γιαμουσσούκρο",
+    "continent": "Αφρική",
+    "filename": "ivory_coast"
+  },
+  {
+    "country": "Μπανγκλαντές",
+    "capital": "Ντάκα",
+    "continent": "Ασία",
+    "filename": "bangladesh"
+  },
+  {
+    "country": "Βρετανικές Παρθένοι Νήσοι",
+    "capital": "Ρόουντ Τάουν",
+    "continent": "Βόρεια Αμερική",
+    "filename": "british_virgin_islands"
+  },
+  {
+    "country": "Αμερικανικές Παρθένοι Νήσοι",
+    "capital": "Σαρλότ Αμαλί",
+    "continent": "Βόρεια Αμερική",
+    "filename": "us_virgin_islands"
+  },
+  {
+    "country": "Μπαρμπάντος",
+    "capital": "Μπρίτζταουν",
+    "continent": "Βόρεια Αμερική",
+    "filename": "barbados"
+  },
+  {
+    "country": "Γεωργία",
+    "capital": "Τιφλίδα",
+    "continent": "Ασία",
+    "filename": "georgia"
+  },
+  {
+    "country": "Κουβέιτ",
+    "capital": "Πόλη του Κουβέιτ",
+    "continent": "Ασία",
+    "filename": "kuwait"
+  },
+  {
+    "country": "Κιριμπάτι",
+    "capital": "Ταράουα",
+    "continent": "Ωκεανία",
+    "filename": "kiribati"
+  },
+  {
+    "country": "Λευκορωσία",
+    "capital": "Μινσκ",
+    "continent": "Ευρώπη",
+    "filename": "belarus"
+  },
+  {
+    "country": "Βέλγιο",
+    "capital": "Βρυξέλλες",
+    "continent": "Ευρώπη",
+    "filename": "belgium"
+  },
+  {
+    "country": "Μπελίζ",
+    "capital": "Μπελμοπάν",
+    "continent": "Βόρεια Αμερική",
+    "filename": "belize"
+  },
+  {
+    "country": "Μπενίν",
+    "capital": "Πόρτο-Νόβο",
+    "continent": "Αφρική",
+    "filename": "benin"
+  },
+  {
+    "country": "Βερμούδα",
+    "capital": "Χάμιλτον",
+    "continent": "Βόρεια Αμερική",
+    "filename": "bermuda"
+  },
+  {
+    "country": "Μπουτάν",
+    "capital": "Τιμπού",
+    "continent": "Ασία",
+    "filename": "bhutan"
+  },
+  {
+    "country": "Βολιβία",
+    "capital": "Σούκρε",
+    "continent": "Νότια Αμερική",
+    "filename": "bolivia"
+  },
+  {
+    "country": "Βοσνία και Ερζεγοβίνη",
+    "capital": "Σαράγεβο",
+    "continent": "Ευρώπη",
+    "filename": "bosnia_and_herzegovina"
+  },
+  {
+    "country": "Μποτσουάνα",
+    "capital": "Γκαμπορόνε",
+    "continent": "Αφρική",
+    "filename": "botswana"
+  },
+  {
+    "country": "Μποναίρ",
+    "capital": "Κράλεντικ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "bonaire"
+  },
+  {
+    "country": "Βραζιλία",
+    "capital": "Μπραζίλια",
+    "continent": "Νότια Αμερική",
+    "filename": "brazil"
+  },
+  {
+    "country": "Μπρουνέι",
+    "capital": "Μπαντάρ Σερί Μπεγκαβάν",
+    "continent": "Ασία",
+    "filename": "brunei"
+  },
+  {
+    "country": "Βουλγαρία",
+    "capital": "Σόφια",
+    "continent": "Ευρώπη",
+    "filename": "bulgaria"
+  },
+  {
+    "country": "Μπουρκίνα Φάσο",
+    "capital": "Ουαγκαντούγκου",
+    "continent": "Αφρική",
+    "filename": "burkina_faso"
+  },
+  {
+    "country": "Μπουρούντι",
+    "capital": "Γκιτέγκα",
+    "continent": "Αφρική",
+    "filename": "burundi"
+  },
+  {
+    "country": "Καμπότζη",
+    "capital": "Πνομ Πενχ",
+    "continent": "Ασία",
+    "filename": "cambodia"
+  },
+  {
+    "country": "Καμερούν",
+    "capital": "Γιαουντέ",
+    "continent": "Αφρική",
+    "filename": "cameroon"
+  },
+  {
+    "country": "Καναδάς",
+    "capital": "Οτάβα",
+    "continent": "Βόρεια Αμερική",
+    "filename": "canada"
+  },
+  {
+    "country": "Πράσινο Ακρωτήρι",
+    "capital": "Πράια",
+    "continent": "Αφρική",
+    "filename": "cape_verde"
+  },
+  {
+    "country": "Νήσοι Κέιμαν",
+    "capital": "Τζωρτζ Τάουν",
+    "continent": "Βόρεια Αμερική",
+    "filename": "cayman_islands"
+  },
+  {
+    "country": "Κεντροαφρικανική Δημοκρατία",
+    "capital": "Μπανγκούι",
+    "continent": "Αφρική",
+    "filename": "central_african_republic"
+  },
+  {
+    "country": "Τσαντ",
+    "capital": "Ντζαμένα",
+    "continent": "Αφρική",
+    "filename": "chad"
+  },
+  {
+    "country": "Χιλή",
+    "capital": "Σαντιάγο",
+    "continent": "Νότια Αμερική",
+    "filename": "chile"
+  },
+  {
+    "country": "Κίνα",
+    "capital": "Πεκίνο",
+    "continent": "Ασία",
+    "filename": "china"
+  },
+  {
+    "country": "Νήσος Χριστουγέννων",
+    "capital": "Φλάινγκ Φις Κόουβ",
+    "continent": "Ασία",
+    "filename": "christmas_island"
+  },
+  {
+    "country": "Νήσοι Κόκος (Κίλινγκ)",
+    "capital": "Ουέστ Άιλαντ",
+    "continent": "Ασία",
+    "filename": "cocos_islands"
+  },
+  {
+    "country": "Κολομβία",
+    "capital": "Μπογκοτά",
+    "continent": "Νότια Αμερική",
+    "filename": "colombia"
+  },
+  {
+    "country": "Κομόρες",
+    "capital": "Μορονί",
+    "continent": "Αφρική",
+    "filename": "comoros"
+  },
+  {
+    "country": "Κονγκό",
+    "capital": "Μπραζαβίλ",
+    "continent": "Αφρική",
+    "filename": "congo"
+  },
+  {
+    "country": "Νήσοι Κουκ",
+    "capital": "Αβαρούα",
+    "continent": "Ωκεανία",
+    "filename": "cook_islands"
+  },
+  {
+    "country": "Κόστα Ρίκα",
+    "capital": "Σαν Χοσέ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "costa_rica"
+  },
+  {
+    "country": "Κόσοβο",
+    "capital": "Πρίστινα",
+    "continent": "Ευρώπη",
+    "filename": "kosovo"
+  },
+  {
+    "country": "Κροατία",
+    "capital": "Ζάγκρεμπ",
+    "continent": "Ευρώπη",
+    "filename": "croatia"
+  },
+  {
+    "country": "Κούβα",
+    "capital": "Αβάνα",
+    "continent": "Βόρεια Αμερική",
+    "filename": "cuba"
+  },
+  {
+    "country": "Κουρασάο",
+    "capital": "Βίλεμσταντ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "curacao"
+  },
+  {
+    "country": "Κύπρος",
+    "capital": "Λευκωσία",
+    "continent": "Ευρώπη",
+    "filename": "cyprus"
+  },
+  {
+    "country": "Τσεχία",
+    "capital": "Πράγα",
+    "continent": "Ευρώπη",
+    "filename": "czech_republic"
+  },
+  {
+    "country": "Δανία",
+    "capital": "Κοπεγχάγη",
+    "continent": "Ευρώπη",
+    "filename": "denmark"
+  },
+  {
+    "country": "Τζιμπουτί",
+    "capital": "Τζιμπουτί",
+    "continent": "Αφρική",
+    "filename": "djibouti"
+  },
+  {
+    "country": "Δομίνικα",
+    "capital": "Ροζό",
+    "continent": "Βόρεια Αμερική",
+    "filename": "dominica"
+  },
+  {
+    "country": "Δομινικανή Δημοκρατία",
+    "capital": "Σάντο Ντομίνγκο",
+    "continent": "Βόρεια Αμερική",
+    "filename": "dominican_republic"
+  },
+  {
+    "country": "Εκουαδόρ",
+    "capital": "Κίτο",
+    "continent": "Νότια Αμερική",
+    "filename": "ecuador"
+  },
+  {
+    "country": "Αίγυπτος",
+    "capital": "Κάιρο",
+    "continent": "Αφρική",
+    "filename": "egypt"
+  },
+  {
+    "country": "Ελ Σαλβαδόρ",
+    "capital": "Σαν Σαλβαδόρ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "el_salvador"
+  },
+  {
+    "country": "Ισημερινή Γουινέα",
+    "capital": "Μαλάμπο",
+    "continent": "Αφρική",
+    "filename": "equatorial_guinea"
+  },
+  {
+    "country": "Ερυθραία",
+    "capital": "Ασμάρα",
+    "continent": "Αφρική",
+    "filename": "eritrea"
+  },
+  {
+    "country": "Εσθονία",
+    "capital": "Ταλίν",
+    "continent": "Ευρώπη",
+    "filename": "estonia"
+  },
+  {
+    "country": "Εσουατίνι",
+    "capital": "Μπαμπάνε",
+    "continent": "Αφρική",
+    "filename": "eswatini"
+  },
+  {
+    "country": "Αιθιοπία",
+    "capital": "Αντίς Αμπέμπα",
+    "continent": "Αφρική",
+    "filename": "ethiopia"
+  },
+  {
+    "country": "Νήσοι Φώκλαντ",
+    "capital": "Στάνλεϋ",
+    "continent": "Νότια Αμερική",
+    "filename": "falkland_islands"
+  },
+  {
+    "country": "Νήσοι Φερόες",
+    "capital": "Τόρσαβν",
+    "continent": "Ευρώπη",
+    "filename": "faroe_islands"
+  },
+  {
+    "country": "Φίτζι",
+    "capital": "Σούβα",
+    "continent": "Ωκεανία",
+    "filename": "fiji"
+  },
+  {
+    "country": "Φινλανδία",
+    "capital": "Ελσίνκι",
+    "continent": "Ευρώπη",
+    "filename": "finland"
+  },
+  {
+    "country": "Γαλλία",
+    "capital": "Παρίσι",
+    "continent": "Ευρώπη",
+    "filename": "france"
+  },
+  {
+    "country": "Γαλλική Γουιάνα",
+    "capital": "Καγιέν",
+    "continent": "Νότια Αμερική",
+    "filename": "french_guiana"
+  },
+  {
+    "country": "Γαλλική Πολυνησία",
+    "capital": "Παπεέτε",
+    "continent": "Ωκεανία",
+    "filename": "french_polynesia"
+  },
+  {
+    "country": "Γκαμπόν",
+    "capital": "Λιμπρεβίλ",
+    "continent": "Αφρική",
+    "filename": "gabon"
+  },
+  {
+    "country": "Γκάμπια",
+    "capital": "Μπανζούλ",
+    "continent": "Αφρική",
+    "filename": "gambia"
+  },
+  {
+    "country": "Γερμανία",
+    "capital": "Βερολίνο",
+    "continent": "Ευρώπη",
+    "filename": "germany"
+  },
+  {
+    "country": "Γκάνα",
+    "capital": "Άκκρα",
+    "continent": "Αφρική",
+    "filename": "ghana"
+  },
+  {
+    "country": "Γιβραλτάρ",
+    "capital": "Γιβραλτάρ",
+    "continent": "Ευρώπη",
+    "filename": "gibraltar"
+  },
+  {
+    "country": "Ελλάδα",
+    "capital": "Αθήνα",
+    "continent": "Ευρώπη",
+    "filename": "greece"
+  },
+  {
+    "country": "Γροιλανδία",
+    "capital": "Νουούκ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "greenland"
+  },
+  {
+    "country": "Γρενάδα",
+    "capital": "Σαιντ Τζόρτζις",
+    "continent": "Βόρεια Αμερική",
+    "filename": "grenada"
+  },
+  {
+    "country": "Γουαδελούπη",
+    "capital": "Μπας-Τερ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "guadeloupe"
+  },
+  {
+    "country": "Γκουάμ",
+    "capital": "Χαγκάτνια",
+    "continent": "Ωκεανία",
+    "filename": "guam"
+  },
+  {
+    "country": "Γουατεμάλα",
+    "capital": "Πόλη της Γουατεμάλας",
+    "continent": "Βόρεια Αμερική",
+    "filename": "guatemala"
+  },
+  {
+    "country": "Γκέρνσεϊ",
+    "capital": "Σεν Πίτερ Πορτ",
+    "continent": "Ευρώπη",
+    "filename": "guernsey"
+  },
+  {
+    "country": "Γουιάνα",
+    "capital": "Τζωρτζτάουν",
+    "continent": "Νότια Αμερική",
+    "filename": "guyana"
+  },
+  {
+    "country": "Αϊτή",
+    "capital": "Πορτ-ο-Πρενς",
+    "continent": "Βόρεια Αμερική",
+    "filename": "haiti"
+  },
+  {
+    "country": "Ονδούρα",
+    "capital": "Τεγουσιγάλπα",
+    "continent": "Βόρεια Αμερική",
+    "filename": "honduras"
+  },
+  {
+    "country": "Ουγγαρία",
+    "capital": "Βουδαπέστη",
+    "continent": "Ευρώπη",
+    "filename": "hungary"
+  },
+  {
+    "country": "Ισλανδία",
+    "capital": "Ρέικιαβικ",
+    "continent": "Ευρώπη",
+    "filename": "iceland"
+  },
+  {
+    "country": "Ινδία",
+    "capital": "Νέο Δελχί",
+    "continent": "Ασία",
+    "filename": "india"
+  },
+  {
+    "country": "Ινδονησία",
+    "capital": "Τζακάρτα",
+    "continent": "Ασία",
+    "filename": "indonesia"
+  },
+  {
+    "country": "Ιράν",
+    "capital": "Τεχεράνη",
+    "continent": "Ασία",
+    "filename": "iran"
+  },
+  {
+    "country": "Ιράκ",
+    "capital": "Βαγδάτη",
+    "continent": "Ασία",
+    "filename": "iraq"
+  },
+  {
+    "country": "Ιρλανδία",
+    "capital": "Δουβλίνο",
+    "continent": "Ευρώπη",
+    "filename": "ireland"
+  },
+  {
+    "country": "Νήσος του Μαν",
+    "capital": "Ντάγκλας",
+    "continent": "Ευρώπη",
+    "filename": "isle_of_man"
+  },
+  {
+    "country": "Ισραήλ",
+    "capital": "Ιερουσαλήμ",
+    "continent": "Ασία",
+    "filename": "israel"
+  },
+  {
+    "country": "Ιταλία",
+    "capital": "Ρώμη",
+    "continent": "Ευρώπη",
+    "filename": "italy"
+  },
+  {
+    "country": "Τζαμάικα",
+    "capital": "Κίνγκστον",
+    "continent": "Βόρεια Αμερική",
+    "filename": "jamaica"
+  },
+  {
+    "country": "Ιαπωνία",
+    "capital": "Τόκιο",
+    "continent": "Ασία",
+    "filename": "japan"
+  },
+  {
+    "country": "Ιορδανία",
+    "capital": "Αμμάν",
+    "continent": "Ασία",
+    "filename": "jordan"
+  },
+  {
+    "country": "Καζακστάν",
+    "capital": "Αστάνα",
+    "continent": "Ασία",
+    "filename": "kazakhstan"
+  },
+  {
+    "country": "Κένυα",
+    "capital": "Ναϊρόμπι",
+    "continent": "Αφρική",
+    "filename": "kenya"
+  },
+  {
+    "country": "Λάος",
+    "capital": "Βιεντιάν",
+    "continent": "Ασία",
+    "filename": "laos"
+  },
+  {
+    "country": "Λετονία",
+    "capital": "Ρίγα",
+    "continent": "Ευρώπη",
+    "filename": "latvia"
+  },
+  {
+    "country": "Λίβανος",
+    "capital": "Βηρυτός",
+    "continent": "Ασία",
+    "filename": "lebanon"
+  },
+  {
+    "country": "Λεσότο",
+    "capital": "Μαζέρου",
+    "continent": "Αφρική",
+    "filename": "lesotho"
+  },
+  {
+    "country": "Λιβύη",
+    "capital": "Τρίπολη",
+    "continent": "Αφρική",
+    "filename": "libya"
+  },
+  {
+    "country": "Λουξεμβούργο",
+    "capital": "Πόλη του Λουξεμβούργου",
+    "continent": "Ευρώπη",
+    "filename": "luxembourg"
+  },
+  {
+    "country": "Μαλδίβες",
+    "capital": "Μαλέ",
+    "continent": "Ασία",
+    "filename": "maldives"
+  },
+  {
+    "country": "Μάλτα",
+    "capital": "Βαλέτα",
+    "continent": "Ευρώπη",
+    "filename": "malta"
+  },
+  {
+    "country": "Νήσοι Μάρσαλ",
+    "capital": "Ματζούρο",
+    "continent": "Ωκεανία",
+    "filename": "marshall_islands"
+  },
+  {
+    "country": "Μαυρίκιος",
+    "capital": "Πορτ Λούι",
+    "continent": "Αφρική",
+    "filename": "mauritius"
+  },
+  {
+    "country": "Μαυριτανία",
+    "capital": "Νουακτσότ",
+    "continent": "Αφρική",
+    "filename": "mauritania"
+  },
+  {
+    "country": "Μεξικό",
+    "capital": "Πόλη του Μεξικού",
+    "continent": "Βόρεια Αμερική",
+    "filename": "mexico"
+  },
+  {
+    "country": "Ομόσπονδες Πολιτείες της Μικρονησίας",
+    "capital": "Παλικίρ",
+    "continent": "Ωκεανία",
+    "filename": "micronesia"
+  },
+  {
+    "country": "Μολδαβία",
+    "capital": "Κισινάου",
+    "continent": "Ευρώπη",
+    "filename": "moldova"
+  },
+  {
+    "country": "Κιργιζία",
+    "capital": "Μπίσκεκ",
+    "continent": "Ασία",
+    "filename": "kyrgyzstan"
+  },
+  {
+    "country": "Λιβερία",
+    "capital": "Μονρόβια",
+    "continent": "Αφρική",
+    "filename": "liberia"
+  },
+  {
+    "country": "Λιχτενστάιν",
+    "capital": "Βαντούζ",
+    "continent": "Ευρώπη",
+    "filename": "liechtenstein"
+  },
+  {
+    "country": "Λιθουανία",
+    "capital": "Βίλνιους",
+    "continent": "Ευρώπη",
+    "filename": "lithuania"
+  },
+  {
+    "country": "Βόρεια Μακεδονία",
+    "capital": "Σκόπια",
+    "continent": "Ευρώπη",
+    "filename": "north_macedonia"
+  },
+  {
+    "country": "Μαδαγασκάρη",
+    "capital": "Ανταναναρίβο",
+    "continent": "Αφρική",
+    "filename": "madagascar"
+  },
+  {
+    "country": "Μαλάουι",
+    "capital": "Λιλόνγκβε",
+    "continent": "Αφρική",
+    "filename": "malawi"
+  },
+  {
+    "country": "Μαλαισία",
+    "capital": "Κουάλα Λουμπούρ",
+    "continent": "Ασία",
+    "filename": "malaysia"
+  },
+  {
+    "country": "Μάλι",
+    "capital": "Μπαμάκο",
+    "continent": "Αφρική",
+    "filename": "mali"
+  },
+  {
+    "country": "Μαρτινίκα",
+    "capital": "Φορ-ντε-Φρανς",
+    "continent": "Βόρεια Αμερική",
+    "filename": "martinique"
+  },
+  {
+    "country": "Μαγιότ",
+    "capital": "Μαμουντζού",
+    "continent": "Αφρική",
+    "filename": "mayotte"
+  },
+  {
+    "country": "Μονακό",
+    "capital": "Μονακό",
+    "continent": "Ευρώπη",
+    "filename": "monaco"
+  },
+  {
+    "country": "Μογγολία",
+    "capital": "Ουλάν Μπατόρ",
+    "continent": "Ασία",
+    "filename": "mongolia"
+  },
+  {
+    "country": "Μαυροβούνιο",
+    "capital": "Ποντγκόριτσα",
+    "continent": "Ευρώπη",
+    "filename": "montenegro"
+  },
+  {
+    "country": "Μονσερράτ",
+    "capital": "Πλίμουθ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "montserrat"
+  },
+  {
+    "country": "Μαρόκο",
+    "capital": "Ραμπάτ",
+    "continent": "Αφρική",
+    "filename": "morocco"
+  },
+  {
+    "country": "Μοζαμβίκη",
+    "capital": "Μαπούτο",
+    "continent": "Αφρική",
+    "filename": "mozambique"
+  },
+  {
+    "country": "Μιανμάρ (Βιρμανία)",
+    "capital": "Νάι Πι Τάου",
+    "continent": "Ασία",
+    "filename": "myanmar"
+  },
+  {
+    "country": "Ναμίμπια",
+    "capital": "Βίντχοκ",
+    "continent": "Αφρική",
+    "filename": "namibia"
+  },
+  {
+    "country": "Ναουρού",
+    "capital": "Γιαρέν",
+    "continent": "Ωκεανία",
+    "filename": "nauru"
+  },
+  {
+    "country": "Νεπάλ",
+    "capital": "Κατμαντού",
+    "continent": "Ασία",
+    "filename": "nepal"
+  },
+  {
+    "country": "Ολλανδία",
+    "capital": "Άμστερνταμ",
+    "continent": "Ευρώπη",
+    "filename": "netherlands"
+  },
+  {
+    "country": "Νέα Καληδονία",
+    "capital": "Νουμέα",
+    "continent": "Ωκεανία",
+    "filename": "new_caledonia"
+  },
+  {
+    "country": "Νέα Ζηλανδία",
+    "capital": "Ουέλλινγκτον",
+    "continent": "Ωκεανία",
+    "filename": "new_zealand"
+  },
+  {
+    "country": "Νικαράγουα",
+    "capital": "Μανάγουα",
+    "continent": "Βόρεια Αμερική",
+    "filename": "nicaragua"
+  },
+  {
+    "country": "Νίγηρας",
+    "capital": "Νιαμέι",
+    "continent": "Αφρική",
+    "filename": "niger"
+  },
+  {
+    "country": "Νιγηρία",
+    "capital": "Αμπούτζα",
+    "continent": "Αφρική",
+    "filename": "nigeria"
+  },
+  {
+    "country": "Νιούε",
+    "capital": "Αλόφι",
+    "continent": "Ωκεανία",
+    "filename": "niue"
+  },
+  {
+    "country": "Νήσος Νόρφολκ",
+    "capital": "Κίνγκστον",
+    "continent": "Ωκεανία",
+    "filename": "norfolk_island"
+  },
+  {
+    "country": "Βόρεια Κορέα",
+    "capital": "Πιονγιάνγκ",
+    "continent": "Ασία",
+    "filename": "north_korea"
+  },
+  {
+    "country": "Βόρεια Ιρλανδία",
+    "capital": "Μπέλφαστ",
+    "continent": "Ευρώπη",
+    "filename": "northern_ireland"
+  },
+  {
+    "country": "Νήσοι Βόρειες Μαριάνες",
+    "capital": "Σαϊπάν",
+    "continent": "Ωκεανία",
+    "filename": "northern_mariana_islands"
+  },
+  {
+    "country": "Νορβηγία",
+    "capital": "Όσλο",
+    "continent": "Ευρώπη",
+    "filename": "norway"
+  },
+  {
+    "country": "Ομάν",
+    "capital": "Μουσκάτ",
+    "continent": "Ασία",
+    "filename": "oman"
+  },
+  {
+    "country": "Πακιστάν",
+    "capital": "Ισλαμαμπάντ",
+    "continent": "Ασία",
+    "filename": "pakistan"
+  },
+  {
+    "country": "Παλάου",
+    "capital": "Νγκερουλμούντ",
+    "continent": "Ωκεανία",
+    "filename": "palau"
+  },
+  {
+    "country": "Παλαιστίνη",
+    "capital": "Ραμάλλαχ",
+    "continent": "Ασία",
+    "filename": "palestine"
+  },
+  {
+    "country": "Παναμάς",
+    "capital": "Πόλη του Παναμά",
+    "continent": "Βόρεια Αμερική",
+    "filename": "panama"
+  },
+  {
+    "country": "Παπούα Νέα Γουινέα",
+    "capital": "Πορτ Μόρεσμπι",
+    "continent": "Ωκεανία",
+    "filename": "papua_new_guinea"
+  },
+  {
+    "country": "Παραγουάη",
+    "capital": "Ασουνσιόν",
+    "continent": "Νότια Αμερική",
+    "filename": "paraguay"
+  },
+  {
+    "country": "Περού",
+    "capital": "Λίμα",
+    "continent": "Νότια Αμερική",
+    "filename": "peru"
+  },
+  {
+    "country": "Φιλιππίνες",
+    "capital": "Μανίλα",
+    "continent": "Ασία",
+    "filename": "philippines"
+  },
+  {
+    "country": "Νήσοι Πίτκαιρν",
+    "capital": "Άνταμσταουν",
+    "continent": "Ωκεανία",
+    "filename": "pitcairn_islands"
+  },
+  {
+    "country": "Πολωνία",
+    "capital": "Βαρσοβία",
+    "continent": "Ευρώπη",
+    "filename": "poland"
+  },
+  {
+    "country": "Πορτογαλία",
+    "capital": "Λισαβόνα",
+    "continent": "Ευρώπη",
+    "filename": "portugal"
+  },
+  {
+    "country": "Πουέρτο Ρίκο",
+    "capital": "Σαν Χουάν",
+    "continent": "Βόρεια Αμερική",
+    "filename": "puerto_rico"
+  },
+  {
+    "country": "Κατάρ",
+    "capital": "Ντόχα",
+    "continent": "Ασία",
+    "filename": "qatar"
+  },
+  {
+    "country": "Ρεϋνιόν",
+    "capital": "Σαιν-Ντενί",
+    "continent": "Αφρική",
+    "filename": "reunion"
+  },
+  {
+    "country": "Ρουμανία",
+    "capital": "Βουκουρέστι",
+    "continent": "Ευρώπη",
+    "filename": "romania"
+  },
+  {
+    "country": "Ρωσία",
+    "capital": "Μόσχα",
+    "continent": "Ευρώπη",
+    "filename": "russia"
+  },
+  {
+    "country": "Ρουάντα",
+    "capital": "Κιγκάλι",
+    "continent": "Αφρική",
+    "filename": "rwanda"
+  },
+  {
+    "country": "Αγία Ελένη",
+    "capital": "Τζέιμσταουν",
+    "continent": "Αφρική",
+    "filename": "saint_helena"
+  },
+  {
+    "country": "Άγιος Χριστόφορος και Νέβις",
+    "capital": "Μπασετέρ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "saint_kitts_and_nevis"
+  },
+  {
+    "country": "Αγία Λουκία",
+    "capital": "Κάστρις",
+    "continent": "Βόρεια Αμερική",
+    "filename": "saint_lucia"
+  },
+  {
+    "country": "Άγιος Μαρτίνος (Saint Martin)",
+    "capital": "Μαριγκό",
+    "continent": "Βόρεια Αμερική",
+    "filename": "saint_martin"
+  },
+  {
+    "country": "Σαιν-Πιερ και Μικελόν",
+    "capital": "Σαιν-Πιερ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "saint_pierre_and_miquelon"
+  },
+  {
+    "country": "Άγιος Βικέντιος και Γρεναδίνες",
+    "capital": "Κίνγκσταουν",
+    "continent": "Βόρεια Αμερική",
+    "filename": "saint_vincent_and_the_grenadines"
+  },
+  {
+    "country": "Σαμόα",
+    "capital": "Απία",
+    "continent": "Ωκεανία",
+    "filename": "samoa"
+  },
+  {
+    "country": "Σαν Μαρίνο",
+    "capital": "Σαν Μαρίνο",
+    "continent": "Ευρώπη",
+    "filename": "san_marino"
+  },
+  {
+    "country": "Σάο Τομέ και Πρίνσιπε",
+    "capital": "Σάο Τομέ",
+    "continent": "Αφρική",
+    "filename": "sao_tome_and_principe"
+  },
+  {
+    "country": "Σαουδική Αραβία",
+    "capital": "Ριάντ",
+    "continent": "Ασία",
+    "filename": "saudi_arabia"
+  },
+  {
+    "country": "Σκωτία",
+    "capital": "Εδιμβούργο",
+    "continent": "Ευρώπη",
+    "filename": "scotland"
+  },
+  {
+    "country": "Σενεγάλη",
+    "capital": "Ντακάρ",
+    "continent": "Αφρική",
+    "filename": "senegal"
+  },
+  {
+    "country": "Σερβία",
+    "capital": "Βελιγράδι",
+    "continent": "Ευρώπη",
+    "filename": "serbia"
+  },
+  {
+    "country": "Σεϋχέλλες",
+    "capital": "Βικτόρια",
+    "continent": "Αφρική",
+    "filename": "seychelles"
+  },
+  {
+    "country": "Σιέρα Λεόνε",
+    "capital": "Φρίταουν",
+    "continent": "Αφρική",
+    "filename": "sierra_leone"
+  },
+  {
+    "country": "Σιγκαπούρη",
+    "capital": "Σιγκαπούρη",
+    "continent": "Ασία",
+    "filename": "singapore"
+  },
+  {
+    "country": "Άγιος Μαρτίνος (Sint Maarten)",
+    "capital": "Φίλιπσμπουργκ",
+    "continent": "Βόρεια Αμερική",
+    "filename": "sint_maarten"
+  },
+  {
+    "country": "Σλοβακία",
+    "capital": "Μπρατισλάβα",
+    "continent": "Ευρώπη",
+    "filename": "slovakia"
+  },
+  {
+    "country": "Σλοβενία",
+    "capital": "Λιουμπλιάνα",
+    "continent": "Ευρώπη",
+    "filename": "slovenia"
+  },
+  {
+    "country": "Νήσοι Σολομώντα",
+    "capital": "Χονιάρα",
+    "continent": "Ωκεανία",
+    "filename": "solomon_islands"
+  },
+  {
+    "country": "Σομαλία",
+    "capital": "Μογκαντίσου",
+    "continent": "Αφρική",
+    "filename": "somalia"
+  },
+  {
+    "country": "Νότια Αφρική",
+    "capital": "Πρετόρια",
+    "continent": "Αφρική",
+    "filename": "south_africa"
+  },
+  {
+    "country": "Νότια Κορέα",
+    "capital": "Σεούλ",
+    "continent": "Ασία",
+    "filename": "south_korea"
+  },
+  {
+    "country": "Νότιο Σουδάν",
+    "capital": "Τζούμπα",
+    "continent": "Αφρική",
+    "filename": "south_sudan"
+  },
+  {
+    "country": "Ισπανία",
+    "capital": "Μαδρίτη",
+    "continent": "Ευρώπη",
+    "filename": "spain"
+  },
+  {
+    "country": "Σρι Λάνκα",
+    "capital": "Κολόμπο",
+    "continent": "Ασία",
+    "filename": "sri_lanka"
+  },
+  {
+    "country": "Σουδάν",
+    "capital": "Χαρτούμ",
+    "continent": "Αφρική",
+    "filename": "sudan"
+  },
+  {
+    "country": "Σουρινάμ",
+    "capital": "Παραμαρίμπο",
+    "continent": "Νότια Αμερική",
+    "filename": "suriname"
+  },
+  {
+    "country": "Σουηδία",
+    "capital": "Στοκχόλμη",
+    "continent": "Ευρώπη",
+    "filename": "sweden"
+  },
+  {
+    "country": "Ελβετία",
+    "capital": "Βέρνη",
+    "continent": "Ευρώπη",
+    "filename": "switzerland"
+  },
+  {
+    "country": "Συρία",
+    "capital": "Δαμασκός",
+    "continent": "Ασία",
+    "filename": "syria"
+  },
+  {
+    "country": "Τατζικιστάν",
+    "capital": "Ντουσάνμπε",
+    "continent": "Ασία",
+    "filename": "tajikistan"
+  },
+  {
+    "country": "Τανζανία",
+    "capital": "Ντοντόμα",
+    "continent": "Αφρική",
+    "filename": "tanzania"
+  },
+  {
+    "country": "Ταϊλάνδη",
+    "capital": "Μπανγκόκ",
+    "continent": "Ασία",
+    "filename": "thailand"
+  },
+  {
+    "country": "Τιμόρ-Λέστε",
+    "capital": "Ντίλι",
+    "continent": "Ασία",
+    "filename": "timor_leste"
+  },
+  {
+    "country": "Λαϊκή Δημοκρατία του Κονγκό",
+    "capital": "Κινσάσα",
+    "continent": "Αφρική",
+    "filename": "the_democratic_republic_of_congo"
+  },
+  {
+    "country": "Τόγκο",
+    "capital": "Λομέ",
+    "continent": "Αφρική",
+    "filename": "togo"
+  },
+  {
+    "country": "Τόνγκα",
+    "capital": "Νουκουαλόφα",
+    "continent": "Ωκεανία",
+    "filename": "tonga"
+  },
+  {
+    "country": "Άγιος Βαρθολομαίος",
+    "capital": "Γουσταβία",
+    "continent": "Βόρεια Αμερική",
+    "filename": "saint_barthelemy"
+  },
+  {
+    "country": "Τρινιντάντ και Τομπάγκο",
+    "capital": "Πορτ οφ Σπέιν",
+    "continent": "Βόρεια Αμερική",
+    "filename": "trinidad_and_tobago"
+  },
+  {
+    "country": "Τριστάν ντα Κούνια",
+    "capital": "Εδιμβούργο των Επτά Θαλασσών",
+    "continent": "Αφρική",
+    "filename": "tristan_da_cunha"
+  },
+  {
+    "country": "Τυνησία",
+    "capital": "Τύνιδα",
+    "continent": "Αφρική",
+    "filename": "tunisia"
+  },
+  {
+    "country": "Ταϊβάν",
+    "capital": "Ταϊπέι",
+    "continent": "Ασία",
+    "filename": "taiwan"
+  },
+  {
+    "country": "Τουρκία",
+    "capital": "Άγκυρα",
+    "continent": "Ασία",
+    "filename": "turkey"
+  },
+  {
+    "country": "Τουρκμενιστάν",
+    "capital": "Ασγκαμπάτ",
+    "continent": "Ασία",
+    "filename": "turkmenistan"
+  },
+  {
+    "country": "Νήσοι Τερκς και Κέικος",
+    "capital": "Κόκμπερν Τάουν",
+    "continent": "Βόρεια Αμερική",
+    "filename": "turks_and_caicos_islands"
+  },
+  {
+    "country": "Τουβαλού",
+    "capital": "Φουναφούτι",
+    "continent": "Ωκεανία",
+    "filename": "tuvalu"
+  },
+  {
+    "country": "Ουγκάντα",
+    "capital": "Καμπάλα",
+    "continent": "Αφρική",
+    "filename": "uganda"
+  },
+  {
+    "country": "Ουκρανία",
+    "capital": "Κίεβο",
+    "continent": "Ευρώπη",
+    "filename": "ukraine"
+  },
+  {
+    "country": "Ηνωμένα Αραβικά Εμιράτα",
+    "capital": "Άμπου Ντάμπι",
+    "continent": "Ασία",
+    "filename": "united_arab_emirates"
+  },
+  {
+    "country": "Ηνωμένο Βασίλειο",
+    "capital": "Λονδίνο",
+    "continent": "Ευρώπη",
+    "filename": "united_kingdom"
+  },
+  {
+    "country": "Ηνωμένες Πολιτείες Αμερικής",
+    "capital": "Ουάσιγκτον",
+    "continent": "Βόρεια Αμερική",
+    "filename": "united_states"
+  },
+  {
+    "country": "Ουρουγουάη",
+    "capital": "Μοντεβιδέο",
+    "continent": "Νότια Αμερική",
+    "filename": "uruguay"
+  },
+  {
+    "country": "Ουζμπεκιστάν",
+    "capital": "Τασκένδη",
+    "continent": "Ασία",
+    "filename": "uzbekistan"
+  },
+  {
+    "country": "Βανουάτου",
+    "capital": "Πορτ Βίλα",
+    "continent": "Ωκεανία",
+    "filename": "vanuatu"
+  },
+  {
+    "country": "Βατικανό",
+    "capital": "Βατικανό",
+    "continent": "Ευρώπη",
+    "filename": "vatican_city"
+  },
+  {
+    "country": "Βενεζουέλα",
+    "capital": "Καράκας",
+    "continent": "Νότια Αμερική",
+    "filename": "venezuela"
+  },
+  {
+    "country": "Βιετνάμ",
+    "capital": "Χανόι",
+    "continent": "Ασία",
+    "filename": "vietnam"
+  },
+  {
+    "country": "Ουαλίς και Φουτουνά",
+    "capital": "Μάτα Ούτου",
+    "continent": "Ωκεανία",
+    "filename": "wallis_and_futuna"
+  },
+  {
+    "country": "Υεμένη",
+    "capital": "Σαναά",
+    "continent": "Ασία",
+    "filename": "yemen"
+  },
+  {
+    "country": "Ζάμπια",
+    "capital": "Λουζάκα",
+    "continent": "Αφρική",
+    "filename": "zambia"
+  },
+  {
+    "country": "Ζιμπάμπουε",
+    "capital": "Χαράρε",
+    "continent": "Αφρική",
+    "filename": "zimbabwe"
+  }
+]

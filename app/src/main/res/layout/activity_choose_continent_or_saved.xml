@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="7dp">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:theme="@style/MyToolbarStyle"/>
+    <Button
+        android:id="@+id/allCountriesButton"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/all_countries"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_background"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="0dp">
+
+        <Button
+            android:id="@+id/europeButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/europe"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:background="@drawable/button_background" />
+
+        <Button
+            android:id="@+id/africaButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/africa"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:background="@drawable/button_background"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="0dp">
+
+        <Button
+            android:id="@+id/northAmericaButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/north_america"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:background="@drawable/button_background" />
+
+        <Button
+            android:id="@+id/SouthAmericaButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/south_america"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:background="@drawable/button_background" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="0dp">
+
+        <Button
+            android:id="@+id/asiaButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/asia"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:background="@drawable/button_background"/>
+
+        <Button
+            android:id="@+id/oceaniaButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/oceania"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:background="@drawable/button_background" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/savedCapitals"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/saved_capitals"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_background"/>
+
+    <Button
+        android:id="@+id/savedFlags"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/saved_flags"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_background" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5dp">
+            <ProgressBar
+                android:id="@+id/progressBar"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:scaleY="1"
+                android:max="28"
+                android:progress="0"
+                style="@android:style/Widget.ProgressBar.Horizontal"/>
+            <TextView
+                android:id="@+id/allCountriesProgressText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:layout_marginBottom="5dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/europeProgressText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/africaProgressText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/white"
+                    android:gravity="end" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/northAmericaProgressText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/southAmericaProgressText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/white"
+                    android:gravity="end" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/asiaProgressText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/oceaniaProgressText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="16sp"
+                    android:textColor="@color/white"
+                    android:gravity="end" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/saveIcon"
+        android:title="@string/save"
+        android:icon="@drawable/save_icon"
+        app:showAsAction="ifRoom"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/deleteIcon"
+        android:title="@string/delete"
+        android:icon="@drawable/delete_icon"
+        app:showAsAction="ifRoom"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/helpIcon"
+        android:icon="@drawable/help_icon"
+        android:title="@string/help"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="5"/>
+    <item
+        android:id="@+id/leaderboardIcon"
+        android:icon="@drawable/leaderboard_icon"
+        android:title="@string/leaderboard"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/statisticsIcon"
+        android:icon="@drawable/statistics_icon"
+        android:title="@string/statistics"
+        app:showAsAction="ifRoom" />
+</menu>

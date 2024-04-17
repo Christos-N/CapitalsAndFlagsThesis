@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Capitals &amp; Flags</string>
+    <string name="capital_label">Capital:\u0020</string>
+    <string name="all_countries">All countries</string>
+    <string name="europe">Europe</string>
+    <string name="asia">Asia</string>
+    <string name="africa">Africa</string>
+    <string name="north_america">North America</string>
+    <string name="south_america">South America</string>
+    <string name="oceania">Oceania</string>
+    <string name="saved_capitals">Saved Capitals</string>
+    <string name="saved_flags">Saved Flags</string>
+    <string name="view_tables">View Tables</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="help">Help</string>
+    <string name="info">Info</string>
+    <string name="country_label">Country:\u0020</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="no_more_countries">There are no more countries!</string>
+    <string name="continent_label">Continent:\u0020</string>
+    <string name="quizzes">Quizzes</string>
+    <string name="country_saved">Country saved</string>
+    <string name="country_deleted">Country deleted</string>
+    <string name="country_already_saved">This country has already been saved!</string>
+    <string name="where_to_save">Where do you want to save this country?</string>
+    <string name="at_least_one">You need to have saved at least one country!</string>
+    <string name="back_again">"Press back again to exit!"</string>
+    <string name="welcome">Welcome!</string>
+    <string name="choose_continent">Choose Continent or Saved</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="thanks">Thank you!</string>
+    <string name="success_this_level">You successfully passed this level!</string>
+    <string name="success_all_levels">You successfully passed all levels!</string>
+    <string name="guess_capital">Guess Capital by Country</string>
+    <string name="guess_country_by_capital">Guess Country by Capital</string>
+    <string name="guess_flag">Guess Flag by Country</string>
+    <string name="guess_country_by_flag">Guess Country by Flag</string>
+    <string name="progress_found">Progress found!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="clear_or_load">Do you want to load last progress?</string>
+    <string name="at_least_five_capitals">You need to have saved at least 5 capitals!</string>
+    <string name="at_least_five_flags">You need to have saved at least 5 flags!</string>
+    <string name="at_least_five_countries">You need to have saved at least 5 countries!</string>
+    <string name="remaining_lives">Remaining lives:\u0020</string>
+    <string name="remaining_answers">Answers remaining to finish the level:\u0020</string>
+    <string name="educational_mode">Educational Mode</string>
+    <string name="try_again">Try again</string>
+    <string name="no_more_lives">No more lives remaining!</string>
+    <string name="question_lose">Do you want to try again or enable Educational Mode?</string>
+    <string name="statistics">Statistics</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="admin">Admin</string>
+    <string name="player">Player</string>
+    <string name="choose_action">Choose Action</string>
+    <string name="choose_user">Choose User</string>
+    <string name="player_or_admin">Do want to login as Player or Admin?</string>
+    <string name="login">Login</string>
+    <string name="promote_to_admin">Are you sure you want to promote this user to admin?</string>
+    <string name="user_is_now_an_admin">User is now an admin!</string>
+    <string name="user_already_admin">User is already an admin!</string>
+    <string name="failed_user_admin">Failed to make user an admin!</string>
+    <string name="error">An unexpected error has occurred!</string>
+    <string name="reset_progress">Reset Progress</string>
+    <string name="make_admin">Make Admin</string>
+    <string name="view_statistics">View Statistics</string>
+    <string name="email">Email</string>
+    <string name="reset_progress_question">Are you sure you want to reset this user\'s progress?</string>
+    <string name="successful_progress_reset">Successful progress reset!</string>
+    <string name="logout">Logout</string>
+    <string name="question_logout">Are you sure you want to logout?</string>
+    <string name="switched_to_admin">Switched to Admin!</string>
+    <string name="switched_to_player">Switched to Player!</string>
+    <string name="switch_to_player">Switch to player</string>
+    <string name="please_wait_images_loaded">Please wait until all images are loaded!</string>
+    <string name="please_connect">Please connect to the Internet!</string>
+    <string name="action_failed_please_connect">Action failed! Please connect to the Internet!</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="please_enter_email_and_password">Please enter email and password!</string>
+    <string name="login_successful">Login successful!</string>
+    <string name="login_failed">Login failed!</string>
+    <string name="please_enter_valid_email">Please enter a valid email address!</string>
+    <string name="password_6_characters">Password must be at least 6 characters!</string>
+    <string name="passwords_do_not_match">Passwords do not match!</string>
+    <string name="sign_up_successful">Sign Up Successful!</string>
+    <string name="sign_up_failed">"Sign Up Failed: "</string>
+    <string name="search">Search</string>
+    <string name="password">Password</string>
+    <string name="question_don_t_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="switch_to_admin">Switch to admin</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="question_have_account">Already have an account?</string>
+    <string name="score">"Score: "</string>
+    <string name="help_choose_continent_or_saved">Here, you have the option to select different quiz types based on continents or your saved capitals or flags. By tapping on the buttons, you can choose quizzes such as all countries, Europe, Africa, North America, South America, Asia, or Oceania. Additionally, you can access quizzes for saved capitals or flags if you\'ve saved enough countries for each category. Keep an eye on the progress bar, which displays your overall quiz progress across all continents. Below the progress bar, you\'ll find individual progress indicators for each continent, showing the number of completed quizzes out of the total 4. To get started, simply select a quiz type, test your knowledge, and keep track of your progress as you learn about countries, capitals, and flags from around the world.\n\nYou can also press the leaderboard icon or the statistics icon to view the total ranking of all users along with their scores or to view your statistics on all categories respectively.
+    </string>
+    <string name="help_choose_quiz">Here, you have the opportunity to embark on a captivating geographical adventure by selecting different quiz types that align with your chosen continent. The screen presents you with four distinct buttons, each representing a unique quiz experience:\n\nThe first option, "Guess Capital by Country," challenges your knowledge as you endeavor to identify the capitals of countries within the selected continent. If you\'re looking for a reverse challenge, the "Guess Country by Capital" quiz prompts you to match countries to their corresponding capital.\n\nFor those intrigued by flags and their symbolism, the "Guess Country by Flag" quiz allows you to test your recognition skills by associating countries with their distinctive flags. Lastly, the "Guess Flag by Country" option lets you explore the world of flags as you endeavor to correctly identify flags.\n\nThese engaging quiz options are not only educational but also designed with user-friendly buttons and an appealing layout. The buttons even dynamically change color to reflect your progress, offering a visual representation of your achievements. When the button’s background color is black, it means you have completed the corresponding quiz, otherwise it is gray.\n\nYou can also press the leaderboard icon or the statistics icon to view the ranking of all users in the continent you\'ve selected along with their scores or to view your statistics on the selected continent respectively.
+    </string>
+    <string name="help_country_detail">This activity serves as a captivating gateway to explore detailed information about countries. As you delve into this activity, you are presented with an informative layout that elegantly showcases essential country details. The activity dynamically populates with data retrieved from a list of countries, allowing you to navigate through various countries\' information.\n\nThe heart of the layout features a text prominently displaying the country\'s name, complemented by another text revealing the capital city and a third one showcasing the continent to which the country belongs. An image displays the country\'s flag, adding visual appeal to the presentation. By pressing the image, you can toggle between the flag and another image which is a photo of a place in the country.\n\nUser interaction is seamlessly integrated, with intuitive "Previous" and "Next" buttons that enable effortless navigation through the country list, revealing a wealth of geographical insights. The menu in the toolbar provides an option to save the current country in the database so that you can access it more easily through the other activities. Additionally, if you are on the saved capitals or flags, you can delete the current country from the saved countries, by tapping the rubbish bin icon.\n
+    </string>
+    <string name="help_country_list">Central to the experience is a list that dynamically populates with an array of countries, each encapsulating its name and capital. You can effortlessly browse through the list, fostering a sense of discovery and learning. The intuitive design extends to the header, where labels "Country" and "Capital" enable sorting by these parameters, enhancing user convenience. Furthermore, the activity showcases a versatile contextual menu that shows the selected continent.
+    </string>
+    <string name="help_flag_quiz">The heart of the activity lies in the quiz itself, where you are presented with flags from different countries. The interface displays the selected country\'s name and offers four flag options. You can tap on their chosen flag, testing your recognition skills and geographical awareness. The visual cues and layout of the quiz are carefully designed to ensure a captivating and educational experience.\n\nThe quiz offers a balanced blend of entertainment and learning, featuring a countdown of answers remaining and lives remaining, adding an element of challenge and excitement. In educational mode (the option you can choose after you have lost all your lives), the activity adapts to a more relaxed approach, hiding the lives and answers remaining counts for stress-free exploration. To finish the level and increase your progress you must pass the normal mode. Every time you complete a level, your progress is tracked. You can keep an eye on how many times you\'ve finished and strive to improve your best time with each attempt.\n\nYou can also save the current country in the database so that you can be tested on the ones that are more difficult for you. If you are on the saved flags activity, you can delete the chosen country from your saved flags.
+    </string>
+    <string name="help_main">Welcome to Capitals and Flags! In this activity, you\'ll discover various options to explore. Start by tapping "View Tables" to access detailed information and tables about countries and capitals. Next, click "Quizzes" to engage in exciting quizzes where you\'ll test your knowledge of flags and capitals. Lastly, when you\'re ready to take a break, securely logout from your account using the "Logout" button. Upon pressing the back button, you receive a prompt to confirm your intention to exit.\n\nYou can also press the leaderboard icon or the statistics icon to view the total ranking of all users along with their scores or to view your statistics on all categories respectively.
+    </string>
+    <string name="help_quiz">The activity boasts a dynamic user interface designed to challenge your geographical knowledge while providing an enjoyable learning process. The layout prominently displays the selected country\'s information, such as the country\'s name or capital, along with its flag. You are presented with multiple-choice options in buttons, encouraging you to make informed selections.\n\nThe activity\'s functionality encompasses various game modes, including identifying countries by their capitals, identifying capitals by their countries, and recognizing countries by their flags. You can test your knowledge on different continents, making the quiz both versatile and informative. This activity also implements an educational mode, which allows you to focus on learning without the pressure of time constraints or limited lives.\n\nTo enhance the user experience, this activity incorporates features such as tracking the number of remaining lives and answers, providing feedback on correct and incorrect choices, and dynamically updating the UI based on user interactions. Every time you complete a level, your progress is tracked. You can keep an eye on how many times you\'ve finished and strive to improve your best time with each attempt.\n\nAdditionally, the activity allows you to save the current country in the database so that you can be tested on the ones that are more difficult for you. If you are on the saved capitals or flags activity, you can delete the chosen country from your saved capitals or flags.\n\n
+    </string>
+    <string name="help_view_tables">This activity serves as a hub for you to explore and navigate through different geographical regions and saved data. Featuring a user-friendly interface, the activity presents various buttons corresponding to different continents and saved data categories. You can effortlessly access comprehensive country and capital information by selecting specific regions, such as Europe, North America, South America, Africa, Asia, and Oceania.\n\nAdditionally, the activity provides options to access saved data, including saved capitals and saved flags, allowing you to review and manage your stored information.
+    </string>
+    <string name="help_login">Here, you can log in to your existing account to access exciting features. If you\'re new, feel free to sign up using the "Sign Up" button below. To log in, simply enter your email address and password in the designated fields. Once logged in, you\'ll be directed to the main page, where you can explore various quizzes and tables. Enjoy your experience with Capitals and Flags!
+    </string>
+    <string name="help_signup">Here, you can create a new account to access exciting features. If you already have an account, you can simply log in by clicking the \"Login\" button below. To sign up, please provide a valid email address and a password with at least 6 characters. Make sure to confirm your password to proceed. Once you\'ve filled in the required information, click the Sign Up button to create your account. Upon successful signup, you\'ll be redirected to the main page, where you can explore various quizzes and tables. Enjoy your experience with Capitals and Flags!
+    </string>
+    <string name="help_show_leaderboard">Here, you can view the scores of players based on their performance in various quizzes. The toolbar at the top provides easy navigation, allowing you to return to the previous screen effortlessly. The leaderboard data is displayed below, showing the total scores of each player. Scores are sorted in descending order, so you can see who\'s leading the pack.
+    </string>
+    <string name="help_show_stats">Here, you can view detailed statistics for your gameplay across different continents and game modes. The toolbar at the top provides easy navigation, allowing you to return to the previous screen effortlessly. The statistics data is displayed below, showing completion percentages and best times for each game mode within the selected continents. You can track your progress and performance over time to improve your skills.
+    </string>
+    <string name="help_admin_view_users">Here, you can manage user accounts and perform various administrative actions. You can search for specific users using the search bar, view the list of users, switch to player mode, or logout from the admin account. To search for a user, simply type their email address or username in the search bar, and the list will be filtered accordingly. You can then click on a user to view and manage their account. If you wish to switch to player mode, click the \"Switch to Player\" button. This will take you to the player interface where you can enjoy the game. To logout from the admin account, click the \"Logout\" button. You will be logged out and redirected to the login screen.
+    </string>
+    <string name="help_admin_choose_action">Here, you can perform various administrative actions on a selected user account. The user\'s email address is displayed prominently for reference. You have three main actions to choose from: viewing statistics, making the user an admin, or resetting their progress. Simply click on the corresponding button to initiate the action. If you wish to view the user\'s statistics, click the \"View Statistics\" button. This will display detailed statistics for the selected user. To promote the user to an admin, click the \"Make Admin\" button, and confirm the action in the dialog box. Similarly, to reset the user\'s progress, click the \"Reset Progress\" button, and confirm the action in the dialog box.
+    </string>
+    <string name="leaderboard_email">" Email: "</string>
+
+
+</resources>

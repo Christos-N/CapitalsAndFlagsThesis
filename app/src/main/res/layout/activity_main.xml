@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="7dp"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:theme="@style/MyToolbarStyle" />
+
+    <Button
+        android:id="@+id/viewTablesButton"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:textSize="20sp"
+        android:text="@string/view_tables"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/flagImageView"
+        android:layout_marginBottom="70dp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_background" />
+
+    <Button
+        android:id="@+id/switchButton"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/toolbar"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/button_background"
+        android:text="@string/switch_to_admin"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:id="@+id/flagImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/app_icon" />
+
+    <Button
+        android:id="@+id/openQuizButton"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:textSize="20sp"
+        android:text="@string/quizzes"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/flagImageView"
+        android:layout_marginTop="70dp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_background" />
+
+    <Button
+        android:id="@+id/logoutButton"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_background"
+        android:text="@string/logout"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+</RelativeLayout>

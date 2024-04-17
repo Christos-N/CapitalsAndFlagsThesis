@@ -1,0 +1,83 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="7dp"
+    tools:context=".CountryDetailActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:theme="@style/MyToolbarStyle" />
+
+    <TextView
+        android:id="@+id/countryNameTextView"
+        android:layout_width="280dp"
+        android:layout_height="70dp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/capitalTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/continentTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/white" />
+
+    <ImageView
+        android:id="@+id/flagImageView"
+        android:layout_width="312dp"
+        android:layout_height="208dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="64dp">
+
+        <Button
+            android:id="@+id/previousButton"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="1"
+            android:text="@string/previous"
+            android:textColor="@color/white"
+            android:background="@drawable/button_background" />
+
+        <Space
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/nextButton"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="1"
+            android:text="@string/next"
+            android:textColor="@color/white"
+            android:background="@drawable/button_background" />
+    </LinearLayout>
+</LinearLayout>

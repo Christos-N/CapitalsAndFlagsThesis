@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694513050445",
+    "project_id": "capitalsandflags",
+    "storage_bucket": "capitalsandflags.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694513050445:android:fb4b1f3d7bde0838d64d04",
+        "android_client_info": {
+          "package_name": "com.unipi.chris.capitalsandflags"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQfmlWv4YSl5iyNZxgtHY5Z8EBum10kDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
