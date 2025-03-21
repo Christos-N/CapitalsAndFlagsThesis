@@ -243,16 +243,55 @@ public class QuizActivity extends AppCompatActivity {
     private List<Country> getRandomCountries(Country excludeCountry, int count) {
         List<Country> randomCountries = new ArrayList<>(countryListFull);
         randomCountries.remove(excludeCountry);
-        outer: if (gameMode == 1){
-            for (Country country: randomCountries){
-                if (country.getFlagImageName().equals("jamaica") || country.getFlagImageName().equals("norfolk_island")){   //Jamaica and Norfolk island have "Kingston" as capitals
-                    randomCountries.remove(country);
-                    break outer;
+
+        if (gameMode == 1) { // Capital guessing mode
+            // Get the correct capital for the current question
+            String correctCapital = excludeCountry.getCapital();
+
+            // Remove countries that have the same capital as our correct answer
+            randomCountries.removeIf(country ->
+                    country.getCapital().equals(correctCapital) && !country.equals(excludeCountry)
+            );
+
+            // Also ensure no duplicate capitals in the options
+            List<String> addedCapitals = new ArrayList<>();
+            addedCapitals.add(correctCapital); // Add correct answer's capital
+
+            // Create filtered list that doesn't have duplicate capitals
+            List<Country> filteredCountries = new ArrayList<>();
+            for (Country country : randomCountries) {
+                if (!addedCapitals.contains(country.getCapital())) {
+                    addedCapitals.add(country.getCapital());
+                    filteredCountries.add(country);
                 }
             }
+
+            randomCountries = filteredCountries;
+        } else if (gameMode == 2) { // Country guessing mode
+            // First, ensure no countries with the same capital as the question country
+            String currentCapital = excludeCountry.getCapital();
+            randomCountries.removeIf(country ->
+                    country.getCapital().equals(currentCapital) && !country.equals(excludeCountry)
+            );
+
+            // Also ensure no duplicate country names in the options
+            List<String> addedCountryNames = new ArrayList<>();
+            addedCountryNames.add(excludeCountry.getName()); // Add correct answer's name
+
+            // Create filtered list that doesn't have duplicate country names
+            List<Country> filteredCountries = new ArrayList<>();
+            for (Country country : randomCountries) {
+                if (!addedCountryNames.contains(country.getName())) {
+                    addedCountryNames.add(country.getName());
+                    filteredCountries.add(country);
+                }
+            }
+
+            randomCountries = filteredCountries;
         }
+
         Collections.shuffle(randomCountries);
-        return randomCountries.subList(0, count);
+        return randomCountries.subList(0, Math.min(count, randomCountries.size()));
     }
     private void checkAnswer(String selectedAnswer) {
         if (UtilityClass.isConnectedToInternet(this)) {

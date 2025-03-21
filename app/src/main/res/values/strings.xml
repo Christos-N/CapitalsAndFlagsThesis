@@ -41,9 +41,7 @@
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="clear_or_load">Do you want to load last progress?</string>
-    <string name="at_least_five_capitals">You need to have saved at least 5 capitals!</string>
-    <string name="at_least_five_flags">You need to have saved at least 5 flags!</string>
-    <string name="at_least_five_countries">You need to have saved at least 5 countries!</string>
+    <string name="at_least_seven_countries">You need to have saved at least 7 countries!</string>
     <string name="remaining_lives">Remaining lives:\u0020</string>
     <string name="remaining_answers">Answers remaining to finish the level:\u0020</string>
     <string name="educational_mode">Educational Mode</string>

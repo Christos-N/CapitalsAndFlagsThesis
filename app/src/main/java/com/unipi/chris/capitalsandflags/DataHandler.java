@@ -152,7 +152,7 @@ public class DataHandler {
                                     context.startActivity(intent);
                                 }
                                 else if(!capitalOrCountry.equals("")){
-                                    Toast.makeText(context, context.getResources().getString(R.string.at_least_five_countries), Toast.LENGTH_SHORT).show();
+                                    Toast.makeText(context, context.getResources().getString(R.string.at_least_seven_countries), Toast.LENGTH_SHORT).show();
                                 }
                                 else if(exitToViewTables){
                                     Toast.makeText(context, context.getResources().getString(R.string.at_least_one), Toast.LENGTH_SHORT).show();
@@ -268,7 +268,7 @@ public class DataHandler {
                         context.startActivity(intent);
                     }
                     else
-                        Toast.makeText(context, context.getResources().getString(R.string.at_least_five_countries), Toast.LENGTH_SHORT).show();
+                        Toast.makeText(context, context.getResources().getString(R.string.at_least_seven_countries), Toast.LENGTH_SHORT).show();
                 }
             }
         });
